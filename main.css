@@ -1,5 +1,5 @@
 :root {
-    --main-color: #e69a27;
+    --main-color: #2780e6;
     --hover-color: #1e63b3;
     --success-color: #43b581;
     --danger-color: #982929;
@@ -600,14 +600,14 @@ textarea,
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:before {
-    content: "  Euphoria";
+    content: "Euphoria";
     color: rgba(255, 255, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:after {
-    content: "v1.2";
+    content: "  v1.2";
     color: rgba(255, 255, 255, .3);
     font-family: var(--code-font);
     font-size: 10px
@@ -1348,7 +1348,7 @@ textarea,
 }
 
 .theme-dark .container-YkUktl:after {
-    content: "v2.1";
+    content: "v1.2";
     left: 50%;
     text-align: left;
     opacity: 0;
